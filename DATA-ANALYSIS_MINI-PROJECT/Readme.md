@@ -1,6 +1,8 @@
-# DATA ANALYSIS IN  PHTHON
+# DATA ANALYSIS IN  PYTHON
+
 
 ### What will you learn ?
+
 
 ## Descriptive Statistics using Pandas and Numpy
 
