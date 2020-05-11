@@ -36,7 +36,3 @@ Using the above functions , linear_regression model is built and implemented. Th
 ## Conclusion
 
 The plots of dataset and predictions are seen and observed if linear regression is working accurately
-
-## Contact 
-**Kushagra Thakral** : `kthakral@ch.iitr.ac.in`
-
