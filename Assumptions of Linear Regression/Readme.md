@@ -40,3 +40,14 @@ While a scatterplot allows you to check for autocorrelations, you can test the l
 ## 5.Homoscedasticity  
 
 The last assumption of the linear regression analysis is homoscedasticity. The scatter plot is good way to check whether the data are homoscedastic (meaning the residuals are equal across the regression line). The Goldfeld-Quandt Test can also be used to test for heteroscedasticity. The test splits the data into two groups and tests to see if the variances of the residuals are similar across the groups. If homoscedasticity is present, a non-linear correction might fix the problem.
+
+### Data Source and License  
+Source - https://archive.ics.uci.edu/ml/datasets/Forest+Fires   
+Paulo Cortez, pcortez '@' dsi.uminho.pt, Department of Information Systems, University of Minho, Portugal.
+Aníbal Morais, araimorais '@' gmail.com, Department of Information Systems, University of Minho, Portugal.
+
+License - This dataset is public available for research.  
+
+Citation:  
+[Cortez and Morais, 2007] P. Cortez and A. Morais. A Data Mining Approach to Predict Forest Fires using Meteorological Data. In J. Neves, M. F. Santos and J. Machado Eds., New Trends in Artificial Intelligence, Proceedings of the 13th EPIA 2007 - Portuguese Conference on Artificial Intelligence, December, Guimarães, Portugal, pp. 512-523, 2007. APPIA, ISBN-13 978-989-95618-0-9
+
