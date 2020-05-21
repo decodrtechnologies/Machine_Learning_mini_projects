@@ -54,7 +54,6 @@ Now, the question is when we can say our data is mderately skewed or heavily ske
 
 You might have heard that kurtosis tells us about the shape or peakedness or flatness of the distribution but this is not correct. Kurtosis tell us about the tails behaviour. It is actually the measure of outliers present in the distribution. 
 
-<a href="https://imgur.com/7FuwfAK.png"><img src="https://imgur.com/7FuwfAK.png" title="source: imgur.com" /></a>
 
 
 
