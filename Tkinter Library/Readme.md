@@ -30,18 +30,20 @@ Events: Events include mouse, keyboard and user interface, which events need to 
 
 Steps to create a widget. ex- Button.
 
-1. Import the Tkinter module.
-2. Import tKinter as tk
-3. Create the GUI application main window.
+1. Import the Tkinter module. 
+        
+        - import tkinter as tk
+
+2. Create the GUI application main window.
 
         - root = tk.Tk()
         
-4. Add one or more widgets to the GUI application.
+3. Add one or more widgets to the GUI application.
 
         - button = tk.Button(root, text='Stop', width=25, command=root.destroy) 
         - button.pack() 
         
-5. Enter the main event loop to take action against each event triggered by the user.
+4. Enter the main event loop to take action against each event triggered by the user.
 
         - root.mainloop()
 
