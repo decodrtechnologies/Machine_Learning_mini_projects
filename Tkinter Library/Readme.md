@@ -42,6 +42,7 @@ Steps to create a widget. ex- Button.
         - button.pack() 
         
 5. Enter the main event loop to take action against each event triggered by the user.
+
         - root.mainloop()
 
 
